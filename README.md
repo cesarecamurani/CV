@@ -1,52 +1,45 @@
 ## Cesare Camurani
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Former Head Waiter/Floor Manager and aspiring Full-Stack Developer currently studying at Makers Academy.
 
 ## Skills
 
-#### This Skill
+#### Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
+#### Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (October 2018 to February 2018)
+#### Makers Academy (October 2018 to February 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+ 16-weeks Web Development bootcamp focused on:
 
-- OOP, TDD, MVC, DDD
+- Pair Programming
+- Test Driven Development
+- Object Oriented Programming
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### ISTITUTO PROFESSIONALE STATALE "Albe Steiner" (September 2000 to June 2004)
+#### Istituto Profennionale Statale "Albe Steiner" (September 1999 to June 2004)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- Graphic Design
+- Advertising
+- Basic Web Design (HTML, CSS, Javascript)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**D&D London** (April 2016 to September 2018)    
+Head Waiter at German Gymnasium  
+**Novikov Group** (March 2015 to March 2016)   
+Floor Manager at I Robert 
 
-## Other Stuff
+## Interests
+
+ - In my spare time i really love watching movies (and tv series of course!) , reading books and cooking as well (I'm italian after all!).
+ - I also enjoy going out with friends, travelling and cycling (and when i remember do some workout at home).
+ - On the music side my favourite genres are Heavy Metal, Electronic and Classical.
