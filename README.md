@@ -25,7 +25,7 @@ Former Head Waiter/Floor Manager and aspiring Full-Stack Developer currently stu
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Istituto Profennionale Statale "Albe Steiner" (September 1999 to June 2004)
+#### Istituto Professionale Statale "Albe Steiner" (September 1999 to June 2004)
 
 - Graphic Design
 - Advertising
