@@ -1,16 +1,18 @@
 ## Cesare Camurani
 
-Former Head Waiter/Floor Manager and aspiring Full-Stack Developer currently studying at Makers Academy.
+#### Aspiring Full-Stack Developer
+
+I am a former head waiter/floor manager now aspiring full-stack developer, currently learning how to code at a professional level at Makers Academy. 
 
 ## Skills
 
-#### Skill
+#### Communication
 
+- Having spent almost 7 years in fast-paced, busy and highly demanding restaurants here in London i've developed the ability to communicate in a fast , positive and effective way while under constant pressure.
 
+#### Attention to details
 
-#### Skill
-
-
+- Due to my past experience in Michelin star restaurants and 5 star hotels i've cultivated a great attentions to details.
 
 ## Education
 
