@@ -1,6 +1,6 @@
 ## Cesare Camurani
 
-#### Aspiring Full-Stack Developer
+#### Junior Software Developer
 
 I am a former head waiter/floor manager now aspiring full-stack developer, currently learning how to code at a professional level at Makers Academy. 
 
@@ -18,7 +18,7 @@ I am a former head waiter/floor manager now aspiring full-stack developer, curre
 
 #### Makers Academy (October 2018 to February 2019)
 
- 16-weeks Web Development bootcamp focused on:
+ 16-weeks Software Development bootcamp focused on:
 
 - Pair Programming
 - Test Driven Development
@@ -38,10 +38,8 @@ I am a former head waiter/floor manager now aspiring full-stack developer, curre
 **D&D London** (April 2016 to September 2018)    
 Head Waiter at German Gymnasium  
 **Novikov Group** (March 2015 to March 2016)   
-Floor Manager at I Robert 
+Floor Manager at I Robert Restaurant
 
 ## Interests
 
- - In my spare time i really love watching movies (and tv series of course!) , reading books and cooking as well (I'm italian after all!).
- - I also enjoy going out with friends, travelling and cycling (and when i remember do some workout at home).
- - On the music side my favourite genres are Heavy Metal, Electronic and Classical.
+ 
