@@ -1,5 +1,6 @@
-
-<img src="/Images/cesare.jpg" width="80" height="80"><h1> Cesare Camurani </h1> 
+<p align="center">
+<img src="/Images/cesare.jpg" width="80" height="80"><h1 align="center"> Cesare Camurani </h1> 
+</p>
 
 <img src="/Images/gmail.png" width="20" height="15"> <a href="mailto:cesare.camurani@gmail.com"> cesare.camurani@gmail.com </a> 
 <br>
