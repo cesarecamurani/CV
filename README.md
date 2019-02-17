@@ -3,8 +3,8 @@
 
 <h3> Junior Software Developer </h3>
 
-<h5> <img src="/images/gmail.png" width="30" height="30"> cesare.camurani@gmail.com </h4>
-<h5>  <img src="/images/linkedin-logo-copy.png" width="30" height="30"> <a href="https://www.linkedin.com/in/cesarecamurani/">https://www.linkedin.com/in/cesarecamurani/</a> </h4>
+<h5> <img src="/Images/gmail.png" width="30" height="22"> cesare.camurani@gmail.com </h4>
+<h5>  <img src="/Images/linkedin-logo-copy.png" width="30" height="30"> <a href="https://www.linkedin.com/in/cesarecamurani/">https://www.linkedin.com/in/cesarecamurani/</a> </h4>
 
 <hr>
 
