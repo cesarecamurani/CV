@@ -8,6 +8,7 @@
 
 <hr>
 
+[Profile ](#profile) |
 [Projects ](#projects) | 
 [Skills ](#skills) | 
 [Education ](#education) | 
