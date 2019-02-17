@@ -16,7 +16,7 @@ I am a former head waiter/floor manager now aspiring full-stack developer, curre
 
 ## Education
 
-#### Makers Academy (October 2018 to February 2019)
+### Makers Academy (October 2018 to February 2019)
 
  A 16-weeks intensive Software Development bootcamp focused on:
 
@@ -28,18 +28,18 @@ I am a former head waiter/floor manager now aspiring full-stack developer, curre
 - Ruby, Ruby on Rails, JavaScript
 - RSpec, Jasmine
 
-#### Istituto Professionale Statale "Albe Steiner" (September 1999 to June 2004)
+### Istituto Professionale Statale "Albe Steiner" (September 1999 to June 2004)
 
-## Main Subjects:
+#### Main Subjects:
 - Graphic Design
 - Advertising
 - Basic Web Design (HTML, CSS, Javascript)
 
 ## Experience
 
-### Github Projects: 
+#### Github Projects: 
 
-### Hospitality:
+#### Hospitality:
 
 **D&D London** (April 2016 to September 2018)    
 Head Waiter at German Gymnasium  
