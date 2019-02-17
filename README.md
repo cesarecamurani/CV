@@ -1,10 +1,9 @@
 
-<h1> Cesare Camurani </h1>
+<h1> Cesare Camurani </h1> 
 
-<h3> Junior Software Developer </h3>
-
-<h5> <img src="/Images/gmail.png" width="30" height="22"> cesare.camurani@gmail.com </h4>
-<h5>  <img src="/Images/linkedin-logo-copy.png" width="30" height="30"> <a href="https://www.linkedin.com/in/cesarecamurani/">https://www.linkedin.com/in/cesarecamurani/</a> </h4>
+<img src="/Images/gmail.png" width="20" height="15"> <a href="mailto:cesare.camurani@gmail.com"> cesare.camurani@gmail.com </a> 
+<br>
+<img src="/Images/linkedin-logo-copy.png" width="20" height="20"> <a href="https://www.linkedin.com/in/cesarecamurani/"> https://www.linkedin.com/in/cesarecamurani/ </a> 
 
 <hr>
 
