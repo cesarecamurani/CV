@@ -1,5 +1,5 @@
 
-<h1> Cesare Camurani </h1> 
+<img src="/Images/cesare.jpg" width="80" height="80"><h1> Cesare Camurani </h1> 
 
 <img src="/Images/gmail.png" width="20" height="15"> <a href="mailto:cesare.camurani@gmail.com"> cesare.camurani@gmail.com </a> 
 <br>
@@ -54,12 +54,6 @@ Head Waiter at German Gymnasium
 **Novikov Group** (March 2015 to March 2016)   
 Floor Manager at I Robert Restaurant
 
-## Other languages
-
-- Mother tongue Italian
-- Basic understanding of written and spoken French
-- Basic understanding of written and spoken Spanish
-
 ## Education
 
 ### Makers Academy (October 2018 to February 2019)
@@ -81,6 +75,12 @@ Floor Manager at I Robert Restaurant
 - Graphic Design
 - Advertising
 - Basic Web Design (HTML, CSS, Javascript)
+
+## Other languages
+
+- Mother tongue Italian
+- Basic understanding of written and spoken French
+- Basic understanding of written and spoken Spanish
 
 ## Interests
 
