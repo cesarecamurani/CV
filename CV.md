@@ -1,4 +1,4 @@
-## Cesare Camurani
+# Cesare Camurani
 #### Junior Software Developer
 
 <a href="mailto:cesare.camurani@gmail.com"> cesare.camurani@gmail.com </a>
@@ -9,12 +9,12 @@
 
 <hr>
 
-[Profile ](#profile) ||
-[Projects ](#projects) ||
-[Skills ](#skills) ||
-[Education ](#education) ||
-[Experience ](#experience) ||
-[Interests ](#interests) ||
+[Profile ](#profile) <br>
+[Projects ](#projects) <br>
+[Skills ](#skills) <br>
+[Education ](#education) <br>
+[Experience ](#experience) <br>
+[Interests ](#interests)
 
 <hr>
 
