@@ -18,28 +18,45 @@ I am a former head waiter/floor manager now aspiring full-stack developer, curre
 
 #### Makers Academy (October 2018 to February 2019)
 
- 16-weeks Software Development bootcamp focused on:
+ A 16-weeks intensive Software Development bootcamp focused on:
 
-- Pair Programming
 - Test Driven Development
+- Pair Programming
 - Object Oriented Programming
-- Agile/XP
-- Ruby, Rails, JavaScript
+- Agile Product Development Process
+- Extreme Programming
+- Ruby, Ruby on Rails, JavaScript
 - RSpec, Jasmine
 
 #### Istituto Professionale Statale "Albe Steiner" (September 1999 to June 2004)
 
+## Main Subjects:
 - Graphic Design
 - Advertising
 - Basic Web Design (HTML, CSS, Javascript)
 
 ## Experience
 
+# Github Projects: 
+
+# Hospitality:
+
 **D&D London** (April 2016 to September 2018)    
 Head Waiter at German Gymnasium  
+
 **Novikov Group** (March 2015 to March 2016)   
 Floor Manager at I Robert Restaurant
 
+## Other languages
+
+- Mother tongue Italian
+
 ## Interests
 
+- Cycling
+- Hiking
+- Watching Movies
+- Reading Books
+- Listening Music
+- History
  
