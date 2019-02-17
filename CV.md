@@ -1,20 +1,20 @@
-##Cesare Camurani
-####Junior Software Developer
+## Cesare Camurani
+#### Junior Software Developer
 
 <a href="mailto:cesare.camurani@gmail.com"> cesare.camurani@gmail.com </a>
 <br>
 <a href="https://www.linkedin.com/in/cesarecamurani/"> https://www.linkedin.com/in/cesarecamurani/ </a>
 <br>
-<a href="https://github.com/cesarecamurani/CV/blob/master/README.md"> My CV on Github </a>
+<a href="https://github.com/cesarecamurani/CV/blob/master/README.md"> https://github.com/cesarecamurani/CV/blob/master/README.md </a>
 
 <hr>
 
-[Profile ](#profile)
-[Projects ](#projects)
-[Skills ](#skills)
-[Education ](#education)
-[Experience ](#experience)
-[Interests ](#interests)
+[Profile ](#profile) ||
+[Projects ](#projects) ||
+[Skills ](#skills) ||
+[Education ](#education) ||
+[Experience ](#experience) ||
+[Interests ](#interests) ||
 
 <hr>
 
@@ -25,16 +25,19 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 
 ## Projects
 
-[Dungeon Hero](https://github.com/cesarecamurani/dungeon-hero): <br> As our final project at Makers we decided, together with our team, to challenge ourselves creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <br> <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a>.
+[Dungeon Hero](https://github.com/cesarecamurani/dungeon-hero): <br> As our final project at Makers we decided, together with our team, to challenge ourselves creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <br> <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a>. <br>
 Technologies: JavaScript, JQuery, HTML5, CSS <br>
-Testing Frameworks: Jasmine, Istanbul, ESlint, Travis CI <br>
-[Acebook](https://github.com/cesarecamurani/acebook-firenze): <br> In this project (part of week 8 and 9 at Makers Academy) we worked in a team of four to create our version of Facebook using Ruby on Rails. Here's the link to Heroku: https://acebook-firenze.herokuapp.com/.
+Testing Frameworks: Jasmine, Istanbul, ESlint, Travis CI 
+<br><br>
+[Acebook](https://github.com/cesarecamurani/acebook-firenze): <br> In this project (part of week 8 and 9 at Makers Academy) we worked in a team of four to create our version of Facebook using Ruby on Rails. Here's the link to Heroku: https://acebook-firenze.herokuapp.com/. <br>
 Technologies: Ruby on Rails, Heroku, HTML5, CSS <br>
-Testing Frameworks: RSpec, Capybara, Travis CI <br>
-[Bank Tech Test](https://github.com/cesarecamurani/Bank-Tech-Test): <br> Tech test where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process.
+Testing Frameworks: RSpec, Capybara, Travis CI 
+<br><br>
+[Bank Tech Test](https://github.com/cesarecamurani/Bank-Tech-Test): <br> Tech test where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process. <br>
 Technologies: Ruby <br>
-Testing Frameworks: RSpec <br>
-[Thermostat](https://github.com/cesarecamurani/Thermostat-JavaScript): <br> A simple single page Thermostat application created using JavaScript and JQuery - my very first project in JS. <br>  
+Testing Frameworks: RSpec
+<br><br>
+[Thermostat](https://github.com/cesarecamurani/Thermostat-JavaScript): <br> A simple single page Thermostat application created using JavaScript and JQuery - my very first project in JS. <br>
 Technologies: JavaScript, JQuery, HTML5, CSS <br>
 Testing Frameworks: Jasmine
 
