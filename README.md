@@ -62,19 +62,19 @@ I'm therefore quite confident in the fact that i will be able to pick up new con
 
 #### Hospitality:
 
-**D&D London - German Gymnasium** (April 2016 to September 2018) <br>    
+**D&D London - German Gymnasium** (April 2016 to September 2018)    
 Head Waiter - King's Cross(London)
 
-**Novikov Group - I Robert Restaurant** (March 2015 to March 2016) <br>  
+**Novikov Group - I Robert Restaurant** (March 2015 to March 2016)
 Floor Manager - Mayfair(London)
 
-**L'Autre Pied Restaurant** (2014 - March 2015) <br>
+**L'Autre Pied Restaurant** (2014 - March 2015)
 Head Waiter - Michelin star restaurant - Marylebone(London)
 
-**Balthazar** (2014) <br>
+**Balthazar** (2014) 
 Head Waiter - Perth(Australia)
 
-**Cotidie by Bruno Barbieri** (april 2012 to april 2013) <br>
+**Cotidie by Bruno Barbieri** (april 2012 to april 2013) 
 Head Waiter - Marylebone(London)
 
 ## Education
