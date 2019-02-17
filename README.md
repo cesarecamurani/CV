@@ -1,10 +1,9 @@
 
-<h1> Cesare Camurani </h1>
+<h1> Cesare Camurani </h1> 
 
-<h3> Junior Software Developer </h3>
-
-<h5> <img src="/images/gmail.png" width="30" height="30"> cesare.camurani@gmail.com </h4>
-<h5>  <img src="/images/linkedin-logo-copy.png" width="30" height="30"> <a href="https://www.linkedin.com/in/cesarecamurani/">https://www.linkedin.com/in/cesarecamurani/</a> </h4>
+<img src="/Images/gmail.png" width="20" height="15"> <a href="mailto:cesare.camurani@gmail.com"> cesare.camurani@gmail.com </a> 
+<br>
+<img src="/Images/linkedin-logo-copy.png" width="20" height="20"> <a href="https://www.linkedin.com/in/cesarecamurani/"> https://www.linkedin.com/in/cesarecamurani/ </a> 
 
 <hr>
 
@@ -30,18 +29,18 @@ I am a former head waiter/floor manager now aspiring full-stack developer, curre
 | [Dungeon Hero](https://github.com/cesarecamurani/dungeon-hero) | As final project at Makers we created a procedural adventure game using vanilla JavaScript. <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a> | JavaScript, Jasmine, JQuery, Istanbul, HTML5, CSS|
 | [Acebook](https://github.com/cesarecamurani/acebook-firenze) |  | Ruby on Rails, RSpec, Capybara, Travis CI, Heroku, HTML5, CSS |
 | [Thermostat](https://github.com/cesarecamurani/Thermostat-JavaScript) |  | JavaScript, JQuery, PostgreSQL, Jasmine, HTML5, CSS|
-| [Imago](https://github.com/cesarecamurani/Imago) |  | Ruby on Rails, RSpec, Capybara, HTML5, CSS|
-| [Battleship](https://github.com/cesarecamurani/BattleShip-JavaScript) |  | JavaScript, JQuery, Jest |
 
 ## Skills
 
-#### Communication
+#### Test Driven Development
 
-- Having spent almost 7 years in fast-paced, busy and highly demanding restaurants here in London i've developed the ability to communicate in a fast , positive and effective way while under constant pressure.
 
-#### Attention to details
+#### Fast Learner
 
-- Due to my past experience in Michelin star restaurants and 5 star hotels i've cultivated a great attentions to details.
+I've always loved learning new things, especially in relation to Technology, Science, History, Psichology. 
+During my journey at Makers Academy i've been surprised by the amount of things we've been able to assimilate in a very short amount of time(sometimes we've been given only a few days to learn a completely new programming language) and the way we were able to use them right away in our projects.
+The whole course had its focus on make us able to quickly learn new things by ourselves.
+I'm therefore quite confident in the fact that i could easily pick up new concepts and learn new languages fairly quickly in a future work environment.
 
 ## Experience
 
@@ -58,6 +57,8 @@ Floor Manager at I Robert Restaurant
 ## Other languages
 
 - Mother tongue Italian
+- Basic understanding of written and spoken French
+- Basic understanding of written and spoken Spanish
 
 ## Education
 
@@ -71,11 +72,12 @@ Floor Manager at I Robert Restaurant
 - Agile Product Development Process
 - Extreme Programming
 - Ruby, Ruby on Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Jest, Capybara
 
 ### Istituto Professionale Statale "Albe Steiner" (September 1999 to June 2004)
 
 #### Main Subjects:
+
 - Graphic Design
 - Advertising
 - Basic Web Design (HTML, CSS, Javascript)
