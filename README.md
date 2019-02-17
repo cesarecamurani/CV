@@ -37,9 +37,9 @@ I am a former head waiter/floor manager now aspiring full-stack developer, curre
 
 ## Experience
 
-# Github Projects: 
+### Github Projects: 
 
-# Hospitality:
+### Hospitality:
 
 **D&D London** (April 2016 to September 2018)    
 Head Waiter at German Gymnasium  
