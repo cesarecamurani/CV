@@ -28,7 +28,7 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 |----------|----------|----------|----------|
 | [Dungeon Hero](https://github.com/cesarecamurani/dungeon-hero) | As our final project at Makers we decided, together with our team, to challenge ourselves creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI
 | [Acebook](https://github.com/cesarecamurani/acebook-firenze) | In this project (part of week 8 and 9 at Makers Academy) we worked in a team of four to create our version of Facebook using Ruby on Rails. Here's the link to Heroku: https://acebook-firenze.herokuapp.com/ | Ruby on Rails, Heroku, HTML5, CSS |  RSpec, Capybara, Travis CI
-| [Thermostat](https://github.com/cesarecamurani/Thermostat-JavaScript) |  | JavaScript, JQuery, PostgreSQL, HTML5, CSS| Jasmine
+| [Thermostat](https://github.com/cesarecamurani/Thermostat-JavaScript) | A simple single page Thermostat application created using JavaScript and JQuery - my very first project in JS | JavaScript, JQuery, PostgreSQL, HTML5, CSS| Jasmine
 
 ## Skills
 
@@ -45,6 +45,15 @@ I've always loved learning new things, especially in relation to Technology, Sci
 During my journey at Makers Academy i've been surprised by the amount of things we've been able to assimilate in a very short amount of time(sometimes we've been given only a few days to learn a completely new programming language) and the way we were able to use them right away in our projects.
 The whole course had its focus on make us able to quickly learn new things by ourselves.
 I'm therefore quite confident in the fact that i can pick up new concepts and learn new languages fairly quickly in a future work environment.
+
+#### Technologies
+
+- JavaScript
+- Ruby
+- Ruby on Rails
+- Express.js
+- MongoDB
+- PostgreSQL
 
 ## Experience
 
