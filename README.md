@@ -1,10 +1,14 @@
 # Cesare Camurani
 
-### Junior Software Developer
+#### Junior Software Developer
 #### Email: cesare.camurani@gmail.com
 #### Linkedin: <a href="https://www.linkedin.com/in/cesarecamurani/">https://www.linkedin.com/in/cesarecamurani/</a>
 
 I am a former head waiter/floor manager now aspiring full-stack developer, currently learning how to code at a professional level at Makers Academy. 
+
+[Projects](#projects) || [Skills](#skills) || [Education](#education) || [Experience](#experience) || [Interests](#interests)
+
+## Projects
 
 ## Skills
 
