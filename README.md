@@ -1,6 +1,8 @@
-<p align="center">
-<img src="/Images/cesare.jpg" width="100" height="100"><h1 align="center"> Cesare Camurani </h1>
-</p>
+
+<h1 align="center"> Cesare Camurani </h1>
+<h4 align="center"> Junior Software Developer </h4>
+
+<br>
 
 <img src="/Images/gmail.png" width="20" height="15"> <a href="mailto:cesare.camurani@gmail.com"> cesare.camurani@gmail.com </a>
 <br>
