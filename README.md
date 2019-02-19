@@ -4,9 +4,13 @@
 
 <br>
 
+<div align="center">
+
 <img src="/Images/gmail.png" width="20" height="15"> <a href="mailto:cesare.camurani@gmail.com"> cesare.camurani@gmail.com </a>
 <br>
 <img src="/Images/linkedin-logo-copy.png" width="20" height="20"> <a href="https://www.linkedin.com/in/cesarecamurani/"> https://www.linkedin.com/in/cesarecamurani/ </a>
+
+</div>
 
 <hr>
 
