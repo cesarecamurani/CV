@@ -10,12 +10,16 @@
 
 <hr>
 
+<div align="center">
+
 [Profile ](#profile) |
 [Projects ](#projects) |
 [Skills ](#skills) |
 [Education ](#education) |
 [Experience ](#experience) |
 [Interests ](#interests)
+
+</div>
 
 <hr>
 
