@@ -29,7 +29,7 @@
 
 ## Profile
 
-After 15 years spent as a hospitality professional i decided to challenge myself starting this amazing journey to become a professional Software Developer at Makers Academy! I'm passionate, eager to learn and to genuinely contribute to the growth of my Team in a future workplace.
+After 15 years spent as a hospitality professional I decided to challenge myself starting this amazing journey to become a professional Software Developer at Makers Academy! I'm passionate, eager to learn and to genuinely contribute to the growth of my Team in a future workplace.
 I will bring with me loads of enthusiasm, a positive attitude towards new challenges and a passion for details cultivated in years of hard work in a very challenging industry like hospitality.
 
 ## Projects
@@ -48,14 +48,14 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 One of the main focuses of Makers Academy is Test Driven Development.
 From the very first day we've been taught about the primary importance of following a strict TDD process while coding, and after an initial struggle i quickly understood why is so important.
 Following a good TDD process while implementing your code is highly beneficial in terms of better code quality, with considerably less bugs and therefore time and money saving in the long run, and makes your code much more easier to change.
-During the course at Makers Academy i had the opportunity to learn and use testing frameworks such as RSpec, Jasmine, Jest, Capybara amongst others.
+During the course at Makers Academy I had the opportunity to learn and use testing frameworks such as RSpec, Jasmine, Jest, Capybara amongst others.
 
 #### Fast Learner
 
 I've always loved learning new things, especially in relation to Technology, Science, History, Psichology.
-During my journey at Makers Academy i've been surprised by the amount of things we've been able to assimilate in a very short amount of time(sometimes we've been given only a few days to learn a completely new programming language) and the way we were able to use them right away in our projects.
+During my journey at Makers Academy I've been surprised by the amount of things we've been able to assimilate in a very short amount of time(sometimes we've been given only a few days to learn a completely new programming language) and the way we were able to use them right away in our projects.
 The whole course had its focus on make us able to quickly learn new things by ourselves.
-I'm therefore quite confident in the fact that i will be able to pick up new concepts and learn new languages fairly quickly in a future work environment.
+I'm therefore quite confident in the fact that I will be able to pick up new concepts and learn new languages fairly quickly in a future work environment.
 
 #### Technologies
 
