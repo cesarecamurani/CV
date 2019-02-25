@@ -49,9 +49,7 @@ One of the main focuses of Makers Academy is Test Driven Development. From the v
 
 #### Fast Learner
 
-I've always loved learning new things, especially in relation to Technology, Science, History, Psymakingchology.
-During my journey at Makers Academy I've been surprised by the amount of things we've been able to assimilate in a very short amount of time(sometimes we've been given only a few days to learn a completely new programming language) and the way we were able to use them right away in our projects.
-The whole course had its focus on making us able to quickly learn new things by ourselves.
+During my journey at Makers Academy I've been surprised by the amount of things we've been able to assimilate in a very short amount of time(sometimes we've been given only a few days to learn a completely new programming language) and the way we were able to use them right away in our projects. The whole course had its focus on making us able to quickly learn new things by ourselves.
 I'm therefore quite confident in the fact that I will be able to pick up new concepts and learn new languages fairly quickly in a future work environment.
 
 #### Technologies
