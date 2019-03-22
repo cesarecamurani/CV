@@ -1,4 +1,4 @@
-<div align="center"><img src="/Images/cesare.jpg" width="80" height="80"></div>
+<div align="center"><img src="/Images/cesare.jpg" width="100" height="100"></div>
 <h1 align="center"> Cesare Camurani </h1>
 <h4 align="center"> Junior Software Developer </h4>
 
