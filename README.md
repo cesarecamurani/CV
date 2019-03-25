@@ -1,6 +1,6 @@
 <div align="center"><img src="/Images/cesare2.jpg" width="120" height="120"></div>
 <h1 align="center"> Cesare Camurani </h1>
-<h4 align="center"> Junior Software Developer </h4>
+<h4 align="center"> Full Stack Software Developer </h4>
 
 <br>
 
