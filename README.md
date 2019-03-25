@@ -38,9 +38,9 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 |----------|----------|----------|----------|
 | [Dungeon Hero](https://github.com/cesarecamurani/dungeon-hero) | For our final project at Makers I decided, together with my team, to challenge myself creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI
 | [Acebook](https://github.com/cesarecamurani/acebook-firenze) | In this project (part of week 8 and 9 at Makers Academy) we worked in a team of four to create our version of Facebook using Ruby on Rails. Here's the link to Heroku: https://acebook-firenze.herokuapp.com/ | Ruby on Rails, Heroku, HTML5, CSS |  RSpec, Capybara, Travis CI
+| [Todo App](https://github.com/cesarecamurani/MERN-Todo-App) | A simple todo app made with Mongodb - Express.js - React.js and Node.js | MERN stack | Postman
 | [Bank Tech Test Ruby](https://github.com/cesarecamurani/Bank-Tech-Test-Ruby) | Tech test exercise where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process | Ruby | RSpec
 | [Bank Tech Test Java](https://github.com/cesarecamurani/Bank-Tech-Test-Java) | Version of the same tech test made in Java | Java | JUnit
-| [Thermostat](https://github.com/cesarecamurani/Thermostat-JavaScript) | A simple single page Thermostat application created using JavaScript and JQuery - my very first project in JS | JavaScript, JQuery, HTML5, CSS| Jasmine
 
 ## Skills
 
@@ -56,15 +56,47 @@ I'm therefore quite confident in the fact that I will be able to pick up new con
 #### Technologies
 
 - JavaScript
-- Ruby
-- Ruby on Rails
+- Node.js
 - Express.js
 - MongoDB
+- React.js
+- Ruby
+- Rails
 - PostgreSQL
+
+## Education
+
+### Makers Academy (October 2018 to February 2019)
+
+ A 16 weeks intensive Software Development bootcamp focused on:
+
+- Test Driven Development
+- Pair Programming
+- Object Oriented Programming
+- Agile Product Development Process
+- Extreme Programming
+- Ruby, Ruby on Rails, JavaScript
+- RSpec, Jasmine
+
+### Istituto Professionale Statale "Albe Steiner" (September 1999 to June 2004)
+
+#### Main Subjects:
+
+- Graphic Design
+- Advertising
+- Basic Web Design (HTML, CSS, Javascript)
+
+## Other languages
+
+- Mother tongue Italian
+- Intermediate understanding of written and spoken French
+- Intermediate understanding of written and spoken Spanish
 
 ## Experience
 
-#### My Github Projects: <a href="https://github.com/cesarecamurani?tab=repositories" target="_blank">https://github.com/cesarecamurani</a>
+#### Programming: 
+
+<a href="https://github.com/cesarecamurani?tab=repositories" target="_blank">https://github.com/cesarecamurani</a>
 
 #### Hospitality:
 
@@ -83,33 +115,7 @@ Head Waiter - Perth(Australia)
 **Cotidie by Bruno Barbieri** (april 2012 to april 2013)<br>
 Head Waiter - Marylebone(London)
 
-## Education
 
-### Makers Academy (October 2018 to February 2019)
-
- A 16 weeks intensive Software Development bootcamp focused on:
-
-- Test Driven Development
-- Pair Programming
-- Object Oriented Programming
-- Agile Product Development Process
-- Extreme Programming
-- Ruby, Ruby on Rails, JavaScript
-- RSpec, Jasmine, Jest, Capybara
-
-### Istituto Professionale Statale "Albe Steiner" (September 1999 to June 2004)
-
-#### Main Subjects:
-
-- Graphic Design
-- Advertising
-- Basic Web Design (HTML, CSS, Javascript)
-
-## Other languages
-
-- Mother tongue Italian
-- Basic understanding of written and spoken French
-- Basic understanding of written and spoken Spanish
 
 ## Interests
 
