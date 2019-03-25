@@ -40,7 +40,6 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 | [Auth App](https://github.com/cesarecamurani/MERN-Auth-App) | Authentication app made in Js (MERN Stack) & Redux | Mongodb, Express.js, React.js, Node.js | Postman
 | [Todo App](https://github.com/cesarecamurani/MERN-Todo-App) | A simple todo app made with Mongodb - Express.js - React.js and Node.js | MERN stack | Postman
 | [Acebook](https://github.com/cesarecamurani/acebook-firenze) | In this project (part of week 8 and 9 at Makers Academy) we worked in a team of four to create our version of Facebook using Ruby on Rails. Here's the link to Heroku: https://acebook-firenze.herokuapp.com/ | Ruby on Rails, Heroku, HTML5, CSS |  RSpec, Capybara, Travis CI
-| [Todo App](https://github.com/cesarecamurani/MERN-Todo-App) | A simple todo app made with Mongodb - Express.js - React.js and Node.js | MERN stack | Postman
 | [Bank Tech Test](https://github.com/cesarecamurani/Bank-Tech-Test-Java) | Tech test exercise where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process | Java | JUnit
 
 ## Skills
