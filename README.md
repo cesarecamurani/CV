@@ -39,8 +39,8 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 | [Dungeon Hero](https://github.com/cesarecamurani/dungeon-hero) | For our final project at Makers I decided, together with my team, to challenge myself creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI
 | [Acebook](https://github.com/cesarecamurani/acebook-firenze) | In this project (part of week 8 and 9 at Makers Academy) we worked in a team of four to create our version of Facebook using Ruby on Rails. Here's the link to Heroku: https://acebook-firenze.herokuapp.com/ | Ruby on Rails, Heroku, HTML5, CSS |  RSpec, Capybara, Travis CI
 | [Todo App](https://github.com/cesarecamurani/MERN-Todo-App) | A simple todo app made with Mongodb - Express.js - React.js and Node.js | MERN stack | Postman
-| [Bank Tech Test Ruby](https://github.com/cesarecamurani/Bank-Tech-Test-Ruby) | Tech test exercise where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process | Ruby | RSpec
-| [Bank Tech Test Java](https://github.com/cesarecamurani/Bank-Tech-Test-Java) | Version of the same tech test made in Java | Java | JUnit
+| [Authentication App](https://github.com/cesarecamurani/MERN-Auth-App) | Authentication app made in Js (MERN Stack) & Redux | Mongodb, Express.js, React.js, Node.js | Postman
+| [Bank Tech Test](https://github.com/cesarecamurani/Bank-Tech-Test-Java) | Tech test exercise where we've been asked to create an application able to create and manage a basic bank account, trying to keep our code as cleaner as possible while following a strict TDD process | Java | JUnit
 
 ## Skills
 
