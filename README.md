@@ -38,8 +38,8 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 |----------|----------|----------|----------|
 | [DungeonHero](https://github.com/cesarecamurani/dungeon-hero) | For the final project at Makers we decided to challenge ourselves creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI
 | [JanuS6](https://github.com/cesarecamurani/JanuS6)  | In this project i created a basic testing framework for JavaScript | JavaScript
-| [AuthApp](https://github.com/cesarecamurani/MERN-Auth-App) | Authentication app made in Js (MERN Stack) & Redux | Mongodb, Express.js, React.js, Node.js | Postman
-| [TodoApp](https://github.com/cesarecamurani/MERN-Todo-App) | A simple todo app made with Mongodb - Express.js - React.js and Node.js | MERN stack | Postman
+| [AuthAppJS](https://github.com/cesarecamurani/MERN-Auth-App) | Authentication app made in Js (MERN Stack) & Redux | Mongodb, Express.js, React.js, Node.js | Postman
+| [TodoAppJS](https://github.com/cesarecamurani/MERN-Todo-App) | A simple todo app made with Mongodb - Express.js - React.js and Node.js | MERN stack | Postman
 | [BankTechTest](https://github.com/cesarecamurani/Bank-Tech-Test-Java) | Tech test where we've been asked to create an application able to create and manage a basic bank account| Java | JUnit
 
 ## Skills
