@@ -36,11 +36,11 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 
 | Project | Summary | Technologies | Testing
 |----------|----------|----------|----------|
-| [Dungeon Hero](https://github.com/cesarecamurani/dungeon-hero) | For our final project at Makers I decided, together with my team, to challenge myself creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI
+| [DungeonHero](https://github.com/cesarecamurani/dungeon-hero) | For our final project at Makers I decided, together with my team, to challenge myself creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <a href="https://cesarecamurani.github.io/dungeon-hero/">https://cesarecamurani.github.io/dungeon-hero/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI
 | [JanuS6](https://github.com/cesarecamurani/JanuS6)  | In this project i created a basic testing framework for JavaScript | JavaScript
-| [Auth App](https://github.com/cesarecamurani/MERN-Auth-App) | Authentication app made in Js (MERN Stack) & Redux | Mongodb, Express.js, React.js, Node.js | Postman
-| [Todo App](https://github.com/cesarecamurani/MERN-Todo-App) | A simple todo app made with Mongodb - Express.js - React.js and Node.js | MERN stack | Postman
-| [Bank Tech Test](https://github.com/cesarecamurani/Bank-Tech-Test-Java) | Tech test where we've been asked to create an application able to create and manage a basic bank account| Java | JUnit
+| [AuthApp](https://github.com/cesarecamurani/MERN-Auth-App) | Authentication app made in Js (MERN Stack) & Redux | Mongodb, Express.js, React.js, Node.js | Postman
+| [TodoApp](https://github.com/cesarecamurani/MERN-Todo-App) | A simple todo app made with Mongodb - Express.js - React.js and Node.js | MERN stack | Postman
+| [BankTechTest](https://github.com/cesarecamurani/Bank-Tech-Test-Java) | Tech test where we've been asked to create an application able to create and manage a basic bank account| Java | JUnit
 
 ## Skills
 
@@ -94,7 +94,7 @@ I'm therefore quite confident in the fact that I will be able to pick up new con
 
 ## Experience
 
-#### Programming: 
+#### Programming:
 
 <a href="https://github.com/cesarecamurani?tab=repositories" target="_blank">https://github.com/cesarecamurani</a>
 
