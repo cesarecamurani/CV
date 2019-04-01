@@ -36,7 +36,7 @@ I will bring with me loads of enthusiasm, a positive attitude towards new challe
 
 | Project | Summary | Technologies | Testing
 |----------|----------|----------|----------|
-| [DungeonHeroJS](https://github.com/cesarecamurani/DungeonHeroJS) | For the final project at Makers we decided to challenge ourselves creating a procedurally generated adventure game (Rogue - like) using vanilla JavaScript. You can play it here: <a href="https://cesarecamurani.github.io/DungeonHeroJS/">https://cesarecamurani.github.io/DungeonHeroJS/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI
+| [DungeonHeroJS](https://github.com/cesarecamurani/DungeonHeroJS) | Procedurally generated adventure game made using (almost) only vanilla JavaScript. You can play it here: <a href="https://cesarecamurani.github.io/DungeonHeroJS/">https://cesarecamurani.github.io/DungeonHeroJS/</a> | JavaScript, JQuery, HTML5, CSS| Jasmine, Istanbul, ESlint, Travis CI
 | [JanuS6](https://github.com/cesarecamurani/JanuS6)  | Simple testing framework made in JavaScript (for JavaScript) | JavaScript |
 | [AuthAppJS](https://github.com/cesarecamurani/AuthAppJS) | Authentication app made in JavaScript (MERN Stack) + Redux | Mongodb, Express.js, React.js and Node.js | Postman, Cypress
 | [TodoAppJS](https://github.com/cesarecamurani/TodoAppJS) | Todo app made in JavaScript to manage your daily tasks | Mongodb,  Express.js, React.js and Node.js | Postman
