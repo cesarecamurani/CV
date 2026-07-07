@@ -1,14 +1,16 @@
 # Cesare Camurani
 
 Email: [cesare.camurani@gmail.com](mailto:cesare.camurani@gmail.com)
+
 Mobile: +44 7437583834 | +39 3520198366
 
 LinkedIn: https://www.linkedin.com/in/cesarecamurani/
+
 GitHub: https://github.com/cesarecamurani
 
 ---
 
-# Summary
+## Summary
 
 Senior Backend Software Engineer with 6+ years of experience building fintech platforms, payment integrations, and API-driven systems using Ruby on Rails. Experienced in designing integration services, working with external payment providers, and collaborating directly with customers and technical partners to deliver reliable solutions.
 
@@ -16,9 +18,9 @@ Strong background in third-party integrations, microservice architectures, API d
 
 ---
 
-# Technical Skills
+## Technical Skills
 
-## Languages & Frameworks
+### Languages & Frameworks
 
 - Ruby, Ruby on Rails
 - JavaScript
@@ -26,7 +28,7 @@ Strong background in third-party integrations, microservice architectures, API d
 - Go (personal projects)
 - PostgreSQL
 
-## Backend & Architecture
+### Backend & Architecture
 
 - Backend development
 - Fintech and payment systems
@@ -38,7 +40,7 @@ Strong background in third-party integrations, microservice architectures, API d
 - SDK development
 - Database design
 
-## Engineering Practices & Tools
+### Engineering Practices & Tools
 
 - RSpec
 - Test-driven development (TDD)
@@ -57,11 +59,11 @@ Strong background in third-party integrations, microservice architectures, API d
 
 ---
 
-# Professional Experience
+## Professional Experience
 
-## AZA Finance
+### AZA Finance
 
-### Software Engineer → Senior Software Engineer
+#### Software Engineer → Senior Software Engineer
 
 **April 2019 – August 2025**
 **Promoted to Senior Software Engineer in January 2023**
@@ -82,9 +84,9 @@ Progressed from Junior Software Engineer to Senior Software Engineer, contributi
 
 ---
 
-## StayAhead
+### StayAhead
 
-### Software Engineer (Personal Project)
+#### Software Engineer (Personal Project)
 
 **2025 – Present**
 
@@ -96,7 +98,7 @@ Developing a personal application focused on commitment tracking and recurring s
 
 ---
 
-## Hospitality Management & Customer Service
+### Hospitality Management & Customer Service
 
 **2005 – 2018**
 
@@ -109,19 +111,19 @@ Built a career in high-end hospitality environments across Italy, Australia, and
 
 ---
 
-# Education
+## Education
 
 - Makers Academy — Software Engineering Bootcamp (2018–2019)
 - IPS Albe Steiner — Graphic Design Diploma (1999–2004)
 
 ---
 
-# Languages
+## Languages
 
 Italian (Native) · English (Fluent, spoken and written) · French (Basic written comprehension)
 
 ---
 
-# Interests
+## Interests
 
 Nature, hiking and cycling · Reading and cinema · Chess
