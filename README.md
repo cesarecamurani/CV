@@ -2,7 +2,7 @@
 
 Email: [cesare.camurani@gmail.com](mailto:cesare.camurani@gmail.com)
 
-Mobile: +44 7437583834 | +39 3520198366
+Mobile: UK +44 7437583834 | IT +39 3520198366
 
 LinkedIn: https://www.linkedin.com/in/cesarecamurani/
 
